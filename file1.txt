@@ -1,4 +1,3 @@
 nguyen manh cuong
-<<<<<<< HEAD
 test pull 
 thay doi o local

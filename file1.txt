@@ -1,4 +1,6 @@
 nguyen manh cuong
 test pull 
 thay doi o local
-nhanh nguyen (sua doi de conflict)
+nhanh nguyen thuy duong
+them dong code
+
